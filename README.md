@@ -11,7 +11,7 @@ party.start()
 var party = smokemachine(context, [1,5,253])
 ```
 
-```
+```html
 <canvas id="canvas"></canvas>
 <script src="smoke.js"></script>
 <script>
